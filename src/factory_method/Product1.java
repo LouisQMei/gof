@@ -1,4 +1,4 @@
-package factorymethod;
+package factory_method;
 
 public class Product1 extends Product {
     @Override

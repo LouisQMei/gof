@@ -1,4 +1,4 @@
-package factorymethod.singleton;
+package factory_method.singleton;
 
 import singleton.Singleton;
 

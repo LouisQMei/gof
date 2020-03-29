@@ -1,4 +1,4 @@
-package factorymethod.simple;
+package factory_method.simple;
 
 /**
  * @author meixin

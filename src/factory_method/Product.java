@@ -1,4 +1,4 @@
-package factorymethod;
+package factory_method;
 
 public abstract class Product {
     //产品类的公共方法

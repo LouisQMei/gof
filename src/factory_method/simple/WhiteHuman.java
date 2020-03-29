@@ -1,4 +1,4 @@
-package factorymethod.simple;
+package factory_method.simple;
 
 public class WhiteHuman extends Human {
     @Override

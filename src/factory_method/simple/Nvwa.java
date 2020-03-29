@@ -1,4 +1,4 @@
-package factorymethod.simple;
+package factory_method.simple;
 
 /**
  * 场景类

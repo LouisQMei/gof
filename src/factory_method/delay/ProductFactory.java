@@ -1,8 +1,8 @@
-package factorymethod.delay;
+package factory_method.delay;
 
-import factorymethod.Product;
-import factorymethod.Product1;
-import factorymethod.Product2;
+import factory_method.Product;
+import factory_method.Product1;
+import factory_method.Product2;
 
 import java.util.HashMap;
 import java.util.Map;
